@@ -1,0 +1,8 @@
+.project
+.buildpath
+cache/*
+!cache/compiles/empty
+!cache/public/.htaccess
+.settings/*
+albums/*
+!albums/.htaccess
